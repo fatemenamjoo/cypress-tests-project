@@ -1,0 +1,12 @@
+
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start:DeltaFx": "npx cypress open"
+  },
+  "devDependencies": {
+    "cypress": "^14.3.2"
+  }
+}

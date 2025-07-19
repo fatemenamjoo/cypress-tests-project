@@ -1,0 +1,18 @@
+# Cypress
+cypress/videos/
+cypress/screenshots/
+cypress.env.json
+
+# Node
+node_modules/
+package-lock.json
+
+# Env files
+.env
+.env.local
+.env.*.local
+
+# IDE settings
+.idea/
+.vscode/
+.DS_Store
